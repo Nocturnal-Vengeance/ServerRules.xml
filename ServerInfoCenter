@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ServerInfoCenter>
+  <Title>Nocturnal Vengeance Server Information Center</Title>
+  <Links>
+    <Discord>https://discord.gg/nocturnal-vengeance</Discord>
+    <Website>https://nocturnal-vengeance.games/</Website>
+    <WebsiteDescription>
+      Set up a store account and get links. Send donations to help us grow. Become part of something awesome!
+    </WebsiteDescription>
+  </Links>
+  <Activities>
+    <Activity>Building Perks</Activity>
+    <Activity>Racing Events</Activity>
+    <Activity>Auction House to Auction Items</Activity>
+    <Activity>Daily Lottery</Activity>
+    <Activity>Decor and More Store</Activity>
+    <Activity>In-Game Shop</Activity>
+    <Activity>And more — we're growing and developing quickly!</Activity>
+  </Activities>
+  <Community>
+    <Message>Join our community and help us grow.</Message>
+    <Recruitment>Looking for Admins and Moderators: Message an Admin if interested.</Recruitment>
+  </Community>
+</ServerInfoCenter>
