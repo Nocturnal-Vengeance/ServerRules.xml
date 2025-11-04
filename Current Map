@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ServerMap>
+  <Title>🗺️ Current Map - Nocturnal Vengeance</Title>
+  <Description>
+    View the live map of our 7 Days to Die world. Track player bases, terrain, and activity in real time.
+  </Description>
+  <MapURL>http://164.152.122.38:26934/static/index.html</MapURL>
+</ServerMap>
