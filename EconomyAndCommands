@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ServerEconomy>
+  <Title>Nocturnal Vengeance Economy & Commands</Title>
+  <Economy>
+    <Description>This server has an in-game economy and shop.</Description>
+    <CurrencySources>
+      <Source>Time spent in game</Source>
+      <Source>Sending messages in Discord</Source>
+      <Source>Killing zombies</Source>
+    </CurrencySources>
+  </Economy>
+  <Commands>
+    <Command name="/day7">Displays next Horde Night</Command>
+    <Command name="/bal">Currency Balance</Command>
+    <Command name="/shop">Shop by page number (1–4) and item number (1–10)</Command>
+    <Command name="/help">Lists Commands</Command>
+    <Command name="/calladmin">Calls an Admin for support (use: /calladmin "type message here")</Command>
+    <Command name="/pay">Send coins to another player</Command>
+    <Command name="/listtele">List of teleport locations</Command>
+    <Command name="/settele">Create a teleport location</Command>
+    <Command name="/tele">Teleport to a location (use: /tele "name")</Command>
+    <Command name="/telepublic">Create a public teleport (use: /telepublic "name")</Command>
+    <Command name="/teleprivate">Make public teleport private (use: /teleprivate "name")</Command>
+  </Commands>
+  <PublicTeleports>
+    <Teleport>/Lobby</Teleport>
+    <Teleport>/Jobs</Teleport>
+    <Teleport>/Base</Teleport>
+    <Teleport>/Races</Teleport>
+    <Teleport>/Market</Teleport>
+    <Teleport>/Decor</Teleport>
+    <Teleport>/Lottery</Teleport>
+    <Teleport>/Auction</Teleport>
+    <Teleport>/Pay "name"</Teleport>
+  </PublicTeleports>
+</ServerEconomy>
