@@ -35,17 +35,3 @@ Find our Discord, website, donation info, and a list of fun activities like raci
 
 ---
 
-## 🛠️ How to Use These Files
-
-1. Upload each XML file to this GitHub repository.
-2. In your `serverconfig.xml`, use the `<ServerDescription>` field to link to the raw URLs.
-3. Example:
-   ```xml
-   <ServerDescription>
-     <![CDATA[
-       View our rules and info:
-       - Rules: https://raw.githubusercontent.com/YourUsername/YourRepo/main/ServerRules.xml
-       - Economy: https://raw.githubusercontent.com/YourUsername/YourRepo/main/EconomyAndCommands.xml
-       - Info: https://raw.githubusercontent.com/YourUsername/YourRepo/main/ServerInfo.xml
-     ]]>
-   </ServerDescription>
