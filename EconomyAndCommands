@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerEconomy>
-  <Title>Nocturnal Vengeance Economy & Commands</Title>
+  <Title>Nocturnal Vengeance Economy And Commands</Title>
   <Economy>
     <Description>This server has an in-game economy and shop.</Description>
     <CurrencySources>
